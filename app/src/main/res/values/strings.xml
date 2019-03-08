@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinkKeeper</string>
+    <string name="empty_links">Copy a website link and press Add Link button to start.</string>
+    <string name="main_title">LINK KEEPER</string>
+    <string name="btn_add">ADD LINK</string>
+    <string name="empty_new_link_text">Copy a website link and press Add Link button</string>
+    <string name="empty_read_link_text">There are no links found</string>
+</resources>
